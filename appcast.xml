@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Mark Updates</title>
+        <item>
+            <title>Version 0.2.0</title>
+            <sparkle:releaseNotesLink>https://whomwah.github.io/mark-releases/notes/v0.2.0.html</sparkle:releaseNotesLink>
+            <pubDate>Wed, 08 Apr 2026 09:22:36 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <enclosure url="https://github.com/whomwah/mark-releases/releases/download/v0.2.0/Mark-0.2.0.dmg" type="application/octet-stream" length="4401088" sparkle:edSignature="U/Fg/BZf9T1YJDtXTQwSWEs+4V5gVa+ZbC/mmv4hQuax/xjtH7LCYCLZHgjBT6KppTK7Rxcy/WObCUpRzmc3DQ==" />
+        </item>
+    </channel>
+</rss>
