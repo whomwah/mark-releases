@@ -55,5 +55,14 @@
             <enclosure url="https://github.com/whomwah/mark-releases/releases/download/v0.7.0/Mark-0.7.0.dmg" type="application/octet-stream" length="4427782" sparkle:edSignature="BfaP1WmwQ3SxArWmsfZIPbFX/BVDW0BPo858fKy0v9CpRPmYL2YhzXKGblgOpJjLIulfIyq75EDY0VD7TTdZAQ==" />
         </item>
 
+            <item>
+            <title>Version 0.8.0</title>
+            <sparkle:releaseNotesLink>https://whomwah.github.io/mark-releases/notes/v0.8.0.html</sparkle:releaseNotesLink>
+            <pubDate>Wed, 15 Apr 2026 13:45:38 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <enclosure url="https://github.com/whomwah/mark-releases/releases/download/v0.8.0/Mark-0.8.0.dmg" type="application/octet-stream" length="4430769" sparkle:edSignature="dQdqVShaj08So5WPe/Us1cSyA9WxFLdaskqOxDOnX6/NpQFgSLnu0HCH8BbeZFl91OfJr9sJ6pTewo/rEFV6Bw==" />
+        </item>
+
     </channel>
 </rss>
